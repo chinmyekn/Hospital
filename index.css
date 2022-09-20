@@ -1,0 +1,84 @@
+/*div
+{
+	width:134px;
+	height:500px;
+	font-size:35px;
+	border-color:10px thick black;
+	color:white;
+	font-size:35px;
+	text-decoration:none;
+	
+}*/
+
+th a
+{
+	font-size:35px;
+	text-decoration:none;
+	color:white;	
+}
+th a:hover
+{
+	text-decoration:underline;
+	text-shadow:2px 5px 10px yellow;
+}
+select{
+	font-family:Times New Roman;
+	text-decoration:none;
+	color:white;
+	font-weight:bolder;
+}
+select:hover{
+	text-decoration:underline;
+	text-shadow:2px 5px 10px yellow;
+}
+/*.aside
+{
+	float:left;
+
+	text-decoration:none;
+	color:white;
+	font-size:35px;
+	background-color:brown;
+	width:159px;
+	height:1111px;
+	box-sizing:border-box;
+	margin-top:0.1px;
+	border:3px solid black;
+	border-radius:10px;
+}
+div ul
+{
+	list-style:square;
+}*/
+span
+{
+	
+	
+	width:100%;
+	padding-top:10px;
+}
+form{float:right; margin-right:60px; font-size:22px; color:purple; 
+}
+.buttons{
+    font-size:20px;
+    background-color:green;
+	padding:24px 24px;
+	border:none;
+	width:200px;
+	border-radius:8px;
+	outline:none;
+	color:white;
+}
+.buttons:hover{
+	background-color:white;
+	color:green;
+}
+h1{
+	text-align:center; margin-top:20px; color:red; border:2px solid blue;
+}
+input[type="text"],[type="tel"],[type="email"],[type="time"],[type="date"]{
+	background-color:#ffd98c;
+	border:2px solid black;
+	height:30px;
+	font-size:22px;
+}

@@ -1,0 +1,40 @@
+body
+{
+	background:linear-gradient(90deg,pink,purple);
+	background-color:lightblue;
+	background-size:cover;
+	background-repeat:no repeat;
+	box-sizing:border-box;
+	border:2px solid orange;
+}
+h1
+{
+	text-align:center;
+	background-color:orange;
+	padding:32px;
+	border:1px solid blue;
+}
+
+.buttons
+{
+	background-color:green;
+	padding:32px 48px;
+	border:none;
+	width:350px;
+	border-radius:8px;
+	outline:none;
+	color:white;
+	font-size:25px;
+	
+}
+.buttons:hover
+{
+	background-color:white;
+	color:green;
+}
+form
+{
+	font-size:16px;
+	color:white;
+	padding:32px;	
+}

@@ -1,0 +1,41 @@
+body
+{
+	background:linear-gradient(90deg, orange,purple);
+	background-size:cover;
+	background-repeat:no repeat;
+	box-sizing:border-box;
+	border:2px solid orange;
+}
+h1
+{
+	text-align:center;
+	background-color:lightgreen;
+	padding:32px;
+	border:1px solid blue;
+}
+input[type="text"],[type="password"]
+{
+	background-color:#ffd98c;
+	border:3px solid black;
+	height:40px;
+	font-size:25px;
+}
+.buttons
+{
+	background-color:green;
+	border-radius:8px;
+	outline:none;
+	color:white;
+	font-size:25px;
+	
+}
+.buttons:hover
+{
+	background-color:green;
+	color:black;
+}
+h2
+{
+	color:white;
+	font-size:35px;
+}
